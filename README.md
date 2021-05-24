@@ -1,8 +1,8 @@
-# POS4everyone
-POS4everyone is an inventory management system, customer relation manager and a point of sale for pharmacy stores, supermarkets and other businesses that involves inventory management.
+# Pharmventory
+Pharmventory is an inventory management system, customer relation manager and a point of sale for pharmacy stores, supermarkets and other businesses that involves inventory management.
 
 ## Technology
-POS4everyone was developed with PHP core version 7+. Other technologies include HTML5, CSS3, JavaScript, JQuery, Bootstrap 4, Material Design, Chart.JS, Template7 and other libraries.
+Pharmventory was developed with PHP core version 7+. Other technologies include HTML5, CSS3, JavaScript, JQuery, Bootstrap 4, Material Design, Chart.JS, Template7 and other libraries.
 
 ## Features:
 #### Different user tiers
